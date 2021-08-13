@@ -66,7 +66,7 @@ const ConnectPage = () => (
         </section>
         <section className='connect-partners'>
             <Row>
-                <Col sm={12}>
+                <Col sm={12} md={6}>
                     <h4><a href='https://www.bettergov.org/'>Better Government Association</a></h4>
                     <p>The Better Government Association is a non-partisan, nonprofit news organization and civic advocate working for transparency, efficiency and accountability in government in Chicago and across Illinois.</p>
                     <Row>
@@ -100,7 +100,7 @@ const ConnectPage = () => (
                         </Col>
                     </Row>
                 </Col>
-                <Col sm={12}>
+                <Col sm={12} md={6}>
                     <h4><a href='https://www.injusticewatch.org/'>Injustice Watch</a></h4>
                     <p>Injustice Watch is a non-partisan, not-for-profit journalism organization that conducts in-depth research exposing institutional failures that obstruct justice and equality.</p>
                     <Row>
@@ -134,9 +134,6 @@ const ConnectPage = () => (
                         </Col>
                     </Row>
                 </Col>
-            </Row>
-            <Row>
-                
             </Row>
         </section>
     </main>

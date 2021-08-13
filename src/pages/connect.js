@@ -49,8 +49,7 @@ const ConnectPage = () => (
                 <p>Welcome to The Circuit’s Facebook community! This group is a space for those who are interested in the Cook County Circuit Court system and want to discuss issues related to our justice system. 
                 It’s a space for people to share their experiences, ask questions, educate one another and connect about issues of justice. <a href='https://www.facebook.com/groups/thecircuit.cc'>Join the community.</a></p>
             </div>
-            
-    
+
             <div>
                 <h3>Stay updated.</h3>
                 <p>The Circuit engagement team works to keep the project’s data and in-depth reporting  transparent and accessible. It’s important that those most affected by the Cook County court system, especially Black and Latinx people, can have access to and participate in this work. <a href='https://forms.gle/GqV6qFqVAUvv1F3j9'>Click on this link</a> to stay updated on events and announcements for The Circuit.</p>

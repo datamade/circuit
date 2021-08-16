@@ -24,12 +24,8 @@ const ConnectPage = () => (
             <br/>
             <p>But numbers aren't the story. People are.</p>
         </section>
-        <div className='circuit-img'>
-            <img src={require('../images/the-circuit-postcard.png')} className='postcard-overlap' />
-        </div>
-        <div >
-            <img src={require('../images/cookcountycourts.jpg')} style={{width: '300px', height: '337px', objectFit: 'cover'}} />
-            <img src={require('../images/the-circuit-postcard.png')} />
+        <div style={{ marginTop: '3em'}}>
+            <img src={require('../images/courts-contact.png')} />
         </div>
         <section className='connect-details'>
             <p>Have you had an experience with the Cook County court system that you’d like to share? We’d like to hear from you.</p>

@@ -467,7 +467,11 @@ address li {
 }
 
 .circuit-stamp {
-	background-image: url('../images/circuit_block.png');
+	background-image: url('../images/circuit_block_tan.png');
+	background-repeat: no-repeat;
+	background-position-x: 25em;
+	background-position-y: bottom;
+	background-size: 45%;
 }
 
 .form-check-label {

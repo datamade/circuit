@@ -466,6 +466,10 @@ address li {
 	margin: 1em;
 }
 
+.circuit-stamp {
+	background-image: url('../images/circuit_block.png');
+}
+
 .form-check-label {
 	display: flex;
 	align-items: center;

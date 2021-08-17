@@ -429,7 +429,7 @@ address li {
 	margin: 1.5em 0 1.5em 0;
 }
 
-.connect-call-to-action a {
+.connect-call-to-action a, .connect-partners a {
 	color: var(--primary-color);
 	text-decoration: none;
 }

@@ -31,7 +31,7 @@ Gaining access and analyzing millions of records would have been impossible with
 
 <p><span className="bold">Data Analysis:</span> Jean Cochrane, Hannah Cushman, Forest Gregg, Bea Malsky, Jasmine Mithani, Seiya Kawashima, Trina Reynolds-Tyler, Lea Washington, David Eads</p>
 
-<p><span className="bold">Engagement:</span> Charles Preston, Olivia Obineme, Starlyn Matheny, Mia Sato, Toni Shears, Asraa Mustafa</p>
+<p><span className="bold">Engagement:</span> Charles Preston, Olivia Obineme, Alexia Diamond, Starlyn Matheny, Mia Sato, Toni Shears, Asraa Mustafa</p>
 
 <p><span className="bold">Designer:</span> Chris Courtney</p>
 
@@ -63,12 +63,6 @@ Gaining access and analyzing millions of records would have been impossible with
 <p>Once in an organized format, journalists from the BGA, the Chicago Reporter, and Injustice Watch, DataMade staff and students from the Harris School of Public Policy documented what the data meant and how to use it.</p>
 
 <p>The data contained problems that needed to be fixed. Information about charges was not standardized; events in the court dockets were not always recorded in the correct order; motions and rulings were sometimes missing; and typos were common. Among the biggest problems was that the race, ethnicity and gender information of defendants was often missing or inaccurate. We resolved that by matching the court data with other county data that more accurately recorded that information. But additional work cleaning the data remains.</p>
-
-
-
-
-
-
 
     </div>
     <div className="rail"></div>

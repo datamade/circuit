@@ -72,15 +72,15 @@ const ConnectPage = () => (
                     <Row>
                         <Col>
                             <a href='https://www.facebook.com/bettergov'>
-                                <img src={require('../images/facebook-512.png')} 
+                                <img src={require('../images/facebook-purple.png')} 
                                     alt='Better Government Association Facebook'/>
                             </a>
                             <a href='https://twitter.com/bettergov'>
-                                <img src={require('../images/twitter-512.png')}
+                                <img src={require('../images/twitter-purple.png')}
                                     alt='Better Government Association Twitter'/>
                             </a>
                             <a href='https://www.instagram.com/bettergov_/'>
-                                <img src={require('../images/instagram-512.png')}
+                                <img src={require('../images/instagram-purple.png')}
                                     alt='Better Government Association Instagram' />
                             </a>
                         </Col>
@@ -106,15 +106,15 @@ const ConnectPage = () => (
                     <Row>
                         <Col>
                             <a href='https://www.facebook.com/injusticewatch'>
-                                <img src={require('../images/facebook-512.png')} 
+                                <img src={require('../images/facebook-purple.png')} 
                                     alt='Injustice Watch Facebook'/>
                             </a>
                             <a href='https://twitter.com/injusticewatch'>
-                                <img src={require('../images/twitter-512.png')}
+                                <img src={require('../images/twitter-purple.png')}
                                     alt='Injustice Watch Twitter'/>
                             </a>
                             <a href='https://www.instagram.com/_injusticewatch/'>
-                                <img src={require('../images/instagram-512.png')}
+                                <img src={require('../images/instagram-purple.png')}
                                     alt='Injustice Watch Instagram' />
                             </a>
                         </Col>

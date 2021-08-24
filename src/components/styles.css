@@ -349,10 +349,10 @@ section.featurestory {
 
 .connect-details p {
     font-style: italic;
-    font-size: 3.5em;
+    font-size: 3em;
     font-weight: 600;
     color: var(--purple-darker); 
-    padding: 2px;
+    padding: 30px;
     line-height: 1.20em;
 }
 
@@ -387,7 +387,7 @@ section.featurestory {
 
 address {
     font-style: normal;
-    font-size: 1.5em;
+    font-size: 2em;
     display: flex;
     justify-content: center;
     border-top: 5px solid #000;
@@ -441,12 +441,12 @@ address li {
 	padding: 0.75em;
 	border-radius: 0px;
 	margin: 0.5em;
-	font-size: 1.75em;
-	min-width: 131px;
+	min-width: 104px;
+	max-height: 38px;
 }
 
 .connect-partners h4 {
-	font-size: 2.5em;
+	font-size: 1.8em;
 	font-weight: 600;
 }
 
@@ -461,7 +461,7 @@ address li {
 }
 
 .connect-partners img {
-	width: 15%;
+	width: 11%;
 	margin: 1em;
 }
 

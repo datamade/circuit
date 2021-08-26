@@ -32,7 +32,7 @@ const ConnectPage = () => (
             <div>
                 <address>
                     <ul>
-                        <li><strong>Text or call:</strong> <a href='tel:+7732327188.'>(773) 232-7188.</a></li>
+                        <li><strong>Text or call:</strong> <a href='tel:+7732327188'>(773) 232-7188</a>.</li>
                         <li><strong>Email:</strong> <a href='mailto:contact@thecircuit.cc'>contact@thecircuit.cc</a></li>
                         <li><strong>Mail:</strong> Olivia Obineme <br/>223 W. Jackson Blvd., #300 <br/>Chicago, IL 60606</li>
                     </ul>

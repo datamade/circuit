@@ -16,6 +16,7 @@ const HeaderEN = ({ siteTitle }) => (
   <ul className="menu">
     <li><a href="https://charges.thecircuit.cc/">Explore the data</a></li>
     <li><a href="/about_en">About</a></li>
+    <li><a href='/connect_en'>Connect</a></li>
     <li><a href="/">English</a> / <a href="/index_es">Español</a></li>
   </ul>
   {/* <img className="" src={require('../images/circuit_block.png')} /> */}
